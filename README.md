@@ -16,16 +16,16 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
    git clone https://github.com/Pushpankit/Hilink.git
 
-  cd my-app
+   cd my-app
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    npm install
 
-3. **Run the app:**
+4. **Run the app:**
 
    npm start
 
-4. **Open your browser:**
+5. **Open your browser:**
    Navigate to http://localhost:3000 to view the app.
    Then, run the development server:
 
